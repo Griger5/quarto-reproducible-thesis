@@ -363,3 +363,7 @@ pos
 pr
 scipy
 vals
+chr
+gnm
+int
+rng
